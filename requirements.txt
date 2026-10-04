@@ -5,3 +5,4 @@ plotly
 openai
 pypdf
 scikit-learn
+sqlalchemy
