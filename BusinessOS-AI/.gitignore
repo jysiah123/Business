@@ -6,3 +6,7 @@ launchpad.db
 __pycache__/
 .DS_Store
 launchpad.db
+.venv/
+__pycache__/
+.DS_Store
+launchpad.db
