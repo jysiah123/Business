@@ -1,0 +1,20 @@
+JYSIAH GUTIERREZ
+Tucson, AZ | business-ai-jysiah.streamlit.app | github.com/jysiahgutierrez
+
+SUMMARY
+High school Business Analyst builder with live-deployed AI Business Intelligence platform.
+
+PROJECTS
+BusinessOS AI — Founder & Builder | LIVE at business-ai-jysiah.streamlit.app
+- Built AI Executive Analyst using Python, OpenAI API, Streamlit
+- Analyzes $84.53M revenue, 58.6% margin, 23 anomalies, $2.5M recovery opportunity
+
+EXPERIENCE
+City of Tucson Parks & Recreation — Recreation Worker
+Tucson Police Explorers — Volunteer
+
+SKILLS
+Python, OpenAI API, Streamlit, SQLAlchemy, scikit-learn, Pandas, Git, GitHub, Excel (Lambda, dynamic arrays), VBA, Apps Script, KPI tracking, Revenue & Margin Analysis, Anomaly Detection, Executive Briefing, Forecasting, Process Improvement
+
+EDUCATION
+Tucson High School — Expected 2027/2028
